@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DAXONConsulting/DAXONConsulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# DAXON Consulting
+**« Transformer les données en décisions »**
 
-Here are some ideas to get you started:
+*Cabinet de conseil en Analytics Engineering, Data Engineering et Systèmes IA pour les PME et ETI.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🎯 Qui sommes-nous ?
+
+**DAXON Consulting** accompagne les entreprises dans la structuration de leurs données, de la source brute jusqu'à la restitution décisionnelle et l'intégration de solutions d'intelligence artificielle sur-mesure.
+
+---
+
+## 🛠️ Notre Stack & Expertises
+
+* **Analytics & Data Engineering :** dbt, SQL, Snowflake, BigQuery, PostgreSQL
+* **Développement & Automatisation :** Python, n8n, Docker, Git, FastAPI, Streamlit
+* **Business Intelligence :** Power BI, modélisation sémantique, tableaux de bord de pilotage
+* **Intelligence Artificielle :** Systèmes RAG (Retrieval-Augmented Generation), agents intelligents et automatisation documentaire
+
+---
+
+## 🚀 Nos Domaines d'Intervention
+
+* **Fondations Data :** Audit des flux, cartographie du système d'information et création d'entrepôts de données centralisés.
+* **Restitution & Pilotage :** Conception de dashboards métiers pour automatiser le reporting et optimiser la prise de décision.
+* **IA Opérationnelle :** Intégration de solutions d'IA générative connectées aux bases de données et documentations internes.
+
+---
+
+<div align="center">
+
+📫 *Discutons de vos projets de transformation Data & IA.*
+
+</div>
